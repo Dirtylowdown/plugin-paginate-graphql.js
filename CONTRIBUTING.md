@@ -1,34 +1,92 @@
-# How to contribute
+delete
+end
 
-Please note that this project is released with a [Contributor Code of Conduct](CODE_OF_CONDUCT.md).
-By participating in this project you agree to abide by its terms.
 
-## Creating an Issue
 
-Before you create a new Issue:
 
-1. Please make sure there is no [open issue](https://github.com/octokit/plugin-paginate-graphql.js/issues?utf8=%E2%9C%93&q=is%3Aissue) yet.
-2. If it is a bug report, include the steps to reproduce the issue and please create a reproducible test case on [runkit.com](https://runkit.com/). Example: https://runkit.com/gr2m/5aa034f1440b420012a6eebf
-3. If it is a feature request, please share the motivation for the new feature, what alternatives you tried, and how you would implement it.
-4. Please include links to the corresponding github documentation.
 
-## Setup the repository locally
 
-First, fork the repository.
 
-Setup the repository locally. Replace `<your account name>` with the name of the account you forked to.
 
-```shell
-git clone https://github.com/<your account name>/plugin-paginate-graphql.js.git
-cd plugin-paginate-graphql.js
-npm install
-```
 
-Run the tests before making changes to make sure the local setup is working as expected
 
-```shell
-npm test
-```
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 ## Submitting the Pull Request
 
