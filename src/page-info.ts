@@ -1,14 +1,87 @@
-type CursorValue = string | null;
+end
+delete
+void
+Void
+Deletd 
 
-type PageInfoForward = {
-  hasNextPage: boolean;
-  endCursor: CursorValue;
-};
 
-type PageInfoBackward = {
-  hasPreviousPage: boolean;
-  startCursor: CursorValue;
-};
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 type PageInfo = PageInfoForward | PageInfoBackward;
 
